@@ -42,5 +42,5 @@ Sistema SaaS Full-Stack desarrollado con **Java 21, Spring Boot 4, PostgreSQL 16
 ### 📫 Contacto
 
 * 💼 **Ubicación:** Bogotá, Colombia (Disponible para oportunidades remotas, híbridas o presenciales)
-* 💻 **Portafolio GitHub:** [://github.com](https://://github.com)
-* 📧 *Correo:* gabriel_0192@hotmail.com
+* 💻 **Portafolio GitHub:** https://github.com/gabitoorojas01-arch/gabitoorojas01-arch
+* 📧 **Correo:** gabriel_0192@hotmail.com
